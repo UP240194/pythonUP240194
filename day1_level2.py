@@ -25,7 +25,7 @@ print("Ags")
 
 print(2)
 print(3.4)
-print(1+g)
+
 print("I love my pet")
 print(true)
 print(type(['It','He','She']))
